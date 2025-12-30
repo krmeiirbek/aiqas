@@ -1,0 +1,26 @@
+# Gradle and build outputs
+**/build/
+**/.gradle/
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+
+# Flutter / Dart
+flutter_antiyoy/.dart_tool/
+flutter_antiyoy/.packages
+flutter_antiyoy/.flutter-plugins
+flutter_antiyoy/.flutter-plugins-dependencies
+flutter_antiyoy/flutter_antiyoy.iml
+flutter_antiyoy/ios/
+flutter_antiyoy/macos/
+flutter_antiyoy/web/
+flutter_antiyoy/linux/
+flutter_antiyoy/windows/
+flutter_antiyoy/android/
+flutter_antiyoy/build/
+flutter_antiyoy/pubspec.lock
+
+# Misc
+.DS_Store
+*.log
